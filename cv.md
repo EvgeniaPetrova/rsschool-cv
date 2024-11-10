@@ -8,6 +8,8 @@
 
 ## About me
 
+I graduated from the Belarusian State Technological University with a degree in Publishing. After university, I worked as a literary editor, then as a website content editor. Now I want to learn more about creating websites and become a developer.
+
 ## Skills
 
 - HTML
